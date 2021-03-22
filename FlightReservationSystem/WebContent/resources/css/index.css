@@ -1,0 +1,73 @@
+body{
+	background: black;	
+}
+
+#Container{
+	width: 100%;
+	min-height: 900px;
+}
+
+#header{
+	width: 100%;
+	min-height: 100px;
+}
+
+#main{
+	width: 100%;
+	min-height: 550px;
+}
+
+#space{
+	float: left;
+	width:10%;
+	min-height: 550px;
+}
+
+#foto1Container{
+	float: left;
+	width:35%;
+	min-height: 550px;
+	background-image: url("https://www.sfd.pl/SFD/articles/main/2018/3/22/big176ce57733f14b70ab3851a8d065ee89.jpg");
+	background-size: cover;
+	
+}
+
+#foto2Container{
+	float: left;
+	width:35%;
+	min-height: 550px;
+	background-image: url("https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg");
+	background-size: cover;
+}
+
+#top{
+	min-height: 20px;
+}
+
+#aboutme{
+	min-height: 50px;
+}
+#pad{
+	float:left;
+	width: 23%;
+	min-height: 50px;
+}
+#pad2{
+	float:left;
+	width: 29%;
+	min-height: 50px;
+}
+
+#letter{
+	float: left;
+	width: 7%;
+	min-height: 50px;
+	font-size: 25px;
+	color: black;
+}
+
+#tab{
+	float:left;
+	width: 5%;
+	min-height: 50px;
+}

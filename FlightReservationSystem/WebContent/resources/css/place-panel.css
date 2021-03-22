@@ -1,0 +1,102 @@
+#container
+{
+	width: 100%
+}
+
+#header
+{
+	min-height: 100px;
+	width: 100%
+}
+
+#top
+{
+	width: 100%;
+	min-height: 50px;
+	text-align: center;
+	color: red;
+	font-size: 20px;
+}
+
+#text
+{
+	float:left;
+	min-height: 50px;
+	width: 50%;
+	font-size: 40px;
+}
+
+#buttonandhrefContainer
+{
+	float: right;
+	width: 50%;
+	min-height: 50px;
+}
+
+#top2
+{
+	clear: both;
+	width: 100%;
+	min-height: 30px;
+}
+#addbuttonContainer
+{
+	float: left;
+	min-height: 20px;
+	width: 70%;
+}
+
+#addbutton
+{
+	border: 1px solid #666; 
+	border-radius: 5px; 
+	padding: 4px; 
+	font-size: 12px;
+	font-weight: bold;
+	width: 120px; 
+	padding: 5px 10px; 
+	background: #cccccc;
+}
+
+#back
+{
+	float: right;
+	min-height: 20px;
+	width: 30%;
+}
+
+#maincontent
+{
+	clear: both;
+}
+
+table {   
+	border-collapse:collapse;
+	border-bottom:1px solid gray;
+	font-family: Tahoma,Verdana,Segoe,sans-serif;
+	width:100%;
+}
+ 
+th {
+	border-bottom:1px solid gray;
+	background:none repeat scroll 0 0 ;
+	padding:10px;
+	color: #FFFFFF;
+}
+
+tr {
+	border-top:1px solid gray;
+	text-align:center;	
+}
+
+tr:nth-child(even) {
+	background: #FFFFFF
+	}
+tr:nth-child(odd) {
+	background: #BBBBBB
+	}
+
+hr{
+	border-top: 2px solid #BBBBBB;
+}
+

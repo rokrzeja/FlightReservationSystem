@@ -1,0 +1,225 @@
+body{
+	background: black;
+}
+
+#container{
+	width: 100%;
+	min-height: 700px;
+}
+
+#mainContainer{
+	width: 80%;
+	margin: auto;
+	min-height: 700px;
+}
+
+#menuContainer{
+	float: left;
+	width: 6%;
+	min-height: 700px;
+}
+
+#top{
+	min-height: 30px;
+	width: 100%;
+}
+
+#menu{
+	width: 100%;
+	min-height: 640px;
+	background: rgb(35, 35, 35);
+}
+
+#uselessmenu{
+	width:100%;
+	min-height: 595px;
+}
+
+#back{
+	width:100%;
+	min-height: 45px;
+	color: rgb(12, 207, 115);
+	text-align: center;
+	font-size: 30px;
+}
+
+#photo{
+	float: left;
+	width: 35%;
+	min-height: 700px;
+	background: rgb(30, 30, 30);
+	background-image: url("");
+	background-size: cover;
+}
+
+#uselessphoto{
+	width: 100%;
+	min-height: 550px;
+}
+
+#name{
+	width: 100%;
+	min-height: 50px;
+	text-align: center;
+	font-size: 40px;
+	color: white;
+	font-weight: 700;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#job{
+	width: 100%;
+	min-height: 20px;
+	text-align: center;
+	font-size: 15px;
+	color: rgb(12, 207, 115);
+	font-weight: 700;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#aboutmeContainer{
+	float: left;
+	width: 59%;
+	min-height: 700px;
+}
+
+#aboutme{
+	width: 100%;
+	min-height: 640px;
+	background: rgb(35, 35, 35);
+}
+
+#aboutmeMain{
+	width: 95%;
+	margin-left: 5%;
+	min-height: 640px;
+	overflow: auto;
+	max-height: 640px;
+	
+}
+
+#aboutmeMain::-webkit-scrollbar {
+  width: 6px;
+}
+ 
+#aboutmeMain::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+#aboutmeMain::-webkit-scrollbar-thumb {
+  background-color: rgb(55, 55, 55);
+}
+
+hr{
+	margin-left: 0px;
+	width: 80%; 
+	border-top: 1px solid black;
+	border-color: rgb(75, 75, 75);
+}
+
+#midspace{
+	width: 100%;
+	min-height: 20px;
+}
+
+#littlespace{
+	width: 100%;
+	min-height: 10px;
+}
+
+#headtext{
+	width: 100%;
+	min-height: 60px;
+	color: white;
+	font-size: 50px;
+	font-weight: 700;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#birthContainer{
+	width: 100%;
+	min-height: 20px;
+}
+
+#birth{
+	float: left;
+	min-height: 20px;
+	width: 10%;
+	color: rgb(12, 207, 115);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: oblique;
+	
+}
+
+#slash{
+	float: left;
+	min-height: 20px;
+	width: 4%;
+	color: grey;
+	text-align: center;
+}
+
+#aboutmetext{
+	width: 90%;
+	min-height: 150px;
+	color: grey;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+}
+
+#myskillstext{
+	width: 100%;
+	min-height: 40px;
+	font-size: 30px;
+	color: white;
+	font-weight: 600;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#skillsContainer{
+	width: 100%;
+	min-height: 250px;
+}
+
+#skillsl{
+	float: left;
+	width: 42%;
+	min-height: 250px;
+}
+
+#skillsm{
+	float: left;
+	width: 8%;
+	min-height: 250px;
+}
+
+#skillsr{
+	float: left;
+	width: 42%;
+	min-height: 250px;
+}
+
+#icon{
+	width: 100%;
+	min-height: 30px;
+	font-size: 20px;
+	color: rgb(12, 207, 115);
+}
+
+#textheadskills{
+	width: 100%;
+	min-height: 30px;
+	color: white;
+	font-size: 15px;
+	font-weight: 600;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#textskills{
+	width: 100%;
+	min-height: 100px;
+	color: grey;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}

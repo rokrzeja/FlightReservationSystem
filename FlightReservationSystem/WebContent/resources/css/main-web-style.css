@@ -1,0 +1,401 @@
+
+#container
+{
+	height: 100%;
+	width: 100%;
+}
+
+#header
+{
+	min-height: 100px;
+	width: 100%;
+}
+
+#logoContainer
+{
+	float: left;
+	min-height: 100px;
+	width: 35%;
+}
+
+#logo
+{
+	margin: auto;
+	min-height: 100px;
+	width: 230px;
+	background-image: url("../img/logo.png");
+	background-repeat: no-repeat;
+	background-size: auto;
+}
+
+#motto
+{
+	float: right;
+	min-height: 100px;
+	width: 65%;
+}
+
+#main
+{
+	background-image: url("../img/eagle.png");
+	background-repeat: no-repeat;
+	background-size: auto;
+	clear: both;
+	min-height: 600px;
+	width: 100%;
+}
+
+#mainbody
+{
+	border: 2px solid white;
+  	padding: 10px;
+  	border-radius: 25px;
+	opacity: 0.85;
+	margin: auto;
+	min-height: 300px;
+	width: 70%;
+	background: #0000CD;
+}
+
+#booktext
+{
+	text-align: center;
+	min-height: 50px;
+	width: 100%;
+	color: white;
+	font-size: 30px;
+	
+}
+
+#fromtotext
+{
+	min-height: 50px;
+	width: 100%;
+}
+
+#fromtextContainer
+{
+	float: left;
+	min-height: 50px;
+	width: 30%;
+	background: #0000CD;
+}
+
+#fth
+{
+	margin: auto;
+	min-height:25px;
+	width: 200px;
+}
+
+#fromtext
+{
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #FFFFFF;
+	margin: auto;
+	min-height: 25px;
+	width: 200px;
+}
+
+#totextContainer
+{
+	float: right;
+	min-height: 50px;
+	width: 70%;
+	background: #0000CD;
+}
+
+#tth
+{
+	margin: auto;
+	min-height:25px;
+	width: 200px;
+}
+
+#totext
+{
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #FFFFFF;
+	margin: auto;
+	min-height: 25px;
+	width: 200px;
+}
+
+#fromto
+{
+	clear: both;
+	min-height: 50px;
+	width: 100%;
+}
+
+#fromContainer
+{
+	float: left;
+	min-height: 50px;
+	width: 30%;
+	background: #0000CD;
+}
+
+#from
+{
+	margin: auto;
+	min-height: 50px;
+	width: 200px;
+}
+
+#destinationPlace
+{
+	border: 2px solid white;
+  	padding: 10px;
+  	border-radius: 10px;
+	padding-left: 5px;
+	min-height: 40px;
+	width: 200px;
+}
+
+#toContainer
+{
+	float: right;
+	min-height: 50px;
+	width: 70%;
+	background: #0000CD;
+}
+
+#to
+{
+	margin: auto;
+	min-height: 50px;
+	width: 200px;
+}
+
+#arrivalPlace
+{
+	border: 2px solid white;
+  	padding: 10px;
+  	border-radius: 10px;
+	padding-left: 5px;
+	margin: auto;
+	min-height: 40px;
+	width: 200px;
+}
+
+#detailstext
+{
+	clear: both;
+	min-height: 50px;
+	width: 100%;
+}
+
+#datetextContainer
+{
+	float: left;
+	min-height: 50px;
+	width: 30%;
+	background: #0000CD;
+}
+
+#dth
+{
+	
+	min-height:25px;
+}
+
+#datetext
+{
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #FFFFFF;
+	margin: auto;
+	min-height: 25px;
+	width: 200px;
+}
+
+#numberofpassangerstextContainer
+{
+	float: left;
+	min-height: 50px;
+	width: 20%;
+	background: #0000CD;
+}
+
+#noph
+{
+	
+	min-height:25px;
+}
+
+#numberofpassangerstext
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #FFFFFF;
+	font-weight: bold;
+	min-height: 25px;
+}
+
+#classtextContainer
+{
+	float: right;
+	min-height: 50px;
+	width: 50%;
+	background: #0000CD;
+}
+
+#cth
+{
+	margin: auto;
+	min-height:25px;
+}
+
+#classtext
+{
+	margin-left: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: bold;
+	color: #FFFFFF;
+	min-height: 25px;
+}
+
+#details
+{
+	clear: both;
+	min-height: 50px;
+	width: 100%;
+}
+
+#dateContainer
+{
+	float: left;
+	min-height: 50px;
+	width: 30%;
+	background: #0000CD;
+}
+
+#dateContainer2
+{
+	margin: auto;
+	min-height: 50px;
+	width: 200px;
+}
+
+#date
+{
+	margin: auto;
+	border: 2px solid white;
+  	padding: 1px;
+  	border-radius: 10px;
+	padding-left: 5px;
+	min-height: 30px;
+	min-width: 150px;
+}
+
+#numberofpassangersContainer
+{
+	float: left;
+	min-height: 50px;
+	width: 20%;
+}
+
+
+#numberofpassangers
+{
+
+	border: 2px solid white;
+  	padding: 1px;
+  	border-radius: 10px;
+	padding-left: 5px;
+	margin: auto;
+	min-height: 37px;
+	width: 150px;
+}
+
+#classContainer
+{
+	float: left;
+	min-height: 50px;
+	width: 50%;
+}
+
+#classContainer2
+{
+	margin-left: 50px;
+	min-height: 50px;
+	width: 150px;
+}
+
+#class
+{
+	border: 2px solid white;
+  	padding: 10px;
+  	border-radius: 10px;
+	padding-left: 5px;
+	margin: auto;
+	min-height: 40px;
+	width: 150px;
+}
+
+#bottomContainer
+{
+	clear: both;
+	min-height: 50px;
+	width: 100%;
+}
+
+#leftbottomContainer
+{
+	float: left;
+	min-height: 50px;
+	width: 80%;
+}
+
+#rightbottomContainer
+{
+	float: right;
+	min-height: 50px;
+	width: 20%;
+}
+
+#submit
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-weight: bold;
+	color: white;
+	background: red;
+  	padding: 10px;
+  	border-radius: 10px;
+	padding-left: 5px;
+	min-height: 40px;
+	width: 150px;
+}
+
+#downContainer{
+	clear: both;
+	min-height: 650px;
+	width: 100%;
+}
+
+#info{
+	width: 70%;
+	min-height: 200px;
+	margin: auto;
+	color: grey;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#sp{
+	min-height: 50px;
+}
+
+#pic{
+	width: 50%;
+	min-height: 400px;
+	background-image: url("../img/database.png");
+	background-size: cover;
+}

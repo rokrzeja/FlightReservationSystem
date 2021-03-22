@@ -1,0 +1,214 @@
+#container
+{
+	height: 100%;
+	width: 100%;
+}
+
+#header
+{
+	min-height: 100px;
+	width: 100%;
+}
+
+#logoContainer
+{
+	float: left;
+	min-height: 100px;
+	width: 35%;
+}
+
+#logo
+{
+	margin: auto;
+	min-height: 100px;
+	width: 230px;
+	background-image: url("../img/logo.png");
+	background-repeat: no-repeat;
+	background-size: auto;
+}
+
+#motto
+{
+	float: right;
+	min-height: 100px;
+	width: 65%;
+}
+
+#main
+{
+	background-image: url("../img/eagle.png");
+	background-repeat: no-repeat;
+	background-size: auto;
+	clear: both;
+	min-height: 600px;
+	width: 100%;
+}
+
+#mainbody
+{
+	border: 2px solid white;
+  	padding: 10px;
+  	border-radius: 25px;
+	opacity: 0.85;
+	margin: auto;
+	min-height: 500px;
+	width: 30%;
+	background: white;
+}
+
+#sexContainer
+{
+	min-height: 40px;
+	width: 100%;
+}
+
+#male
+{
+	float: left;
+	width: 50%;
+}
+
+#female
+{
+	float: right;
+	width: 50%;
+}
+
+#firstnametext
+{
+	clear:both;
+	min-height: 20px;
+	width: 100%
+}
+
+#firstname
+{
+	min-height: 35px;
+	width: 100%;
+}
+
+#space
+{
+	min-height: 10px;
+	width:100%;
+}
+
+#lastnametext
+{
+	min-height: 20px;
+	width: 100%
+}
+
+#lastname
+{
+	min-height: 35px;
+	width: 100%;
+}
+
+#birthdaytext
+{
+	min-height: 20px;
+	width: 100%
+}
+
+#birthday
+{
+	min-height: 35px;
+	width: 100%;
+}
+
+#birthplacetext
+{
+	min-height: 20px;
+	width: 100%
+}
+
+#birthplace
+{
+	min-height: 35px;
+	width: 100%;
+}
+
+#tnt
+{
+	min-height: 20px;
+	width: 100%
+}
+
+#telephonenumber
+{
+	min-height: 35px;
+	width: 100%;
+}
+
+#mailtext
+{
+	min-height: 20px;
+	width: 100%
+}
+
+#email
+{
+	min-height: 35px;
+	width: 100%;
+}
+
+#button
+{
+	min-height: 30px;
+	width: 100%;
+}
+
+#lb
+{
+	float:left;
+	width: 80%;
+}
+
+#submit
+{
+	float:right;
+	width: 20%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: white;
+	background: rgb(45, 138, 164);
+  	padding: 5px;
+  	border-radius: 10px;
+	padding-left: 5px;
+}
+
+#endtextContainer
+{
+	margin: auto;
+	min-height: 200px;
+	width: 30%;
+}
+
+#nthtxt
+{
+	min-height: 50px;
+}
+
+#text1
+{
+	min-height: 100px;
+	font-size: 40px;
+	text-align: center;
+}
+
+#text2
+{
+	min-height: 50px;
+	font-size: 20px;
+	text-align: center;
+
+	
+}
+
+#text3
+{
+	min-height: 50px;
+	font-size: 20px;
+	text-align: right;
+}
