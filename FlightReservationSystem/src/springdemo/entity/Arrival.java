@@ -22,11 +22,11 @@ public class Arrival {
 	@Column(name="id_arrival")
 	private int id;
 	
-	@Pattern(regexp="^[a-zA-Z]{2,25}", message="from 2 to 25 chairs are required ")
+	@Pattern(regexp="^[a-zA-Z]{2,25}", message="from 2 to 25 chars are required ")
 	@Column(name="place")
 	private String arrivalPlace;
 	
-	@Pattern(regexp="^[a-zA-Z]{2,25}", message="from 2 to 25 chairs are required ")
+	@Pattern(regexp="^[a-zA-Z]{2,25}", message="from 2 to 25 chars are required ")
 	@Column(name="country")
 	private String arrivalCountry;
 	
